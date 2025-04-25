@@ -2,7 +2,7 @@
 My first repository.
 
 
-### My Favorite Movies
+## My Favorite Movies
 
 1.**Up**
   - I really like this movie beacause you can get many lessons from it!
